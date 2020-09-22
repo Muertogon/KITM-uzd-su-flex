@@ -1,0 +1,44 @@
+body{
+    width: 40%;
+}
+header{
+    display:flex;
+    width: 695px;
+    height: 50px;
+    background-color: darkgoldenrod;
+    margin: 2px;
+}
+.row{
+    display:flex;
+    margin:2px;
+}
+.box1{
+    flex:30%;
+    flex-direction: column;
+}
+.box2{
+    flex:70%;
+    margin:2px;
+}
+nav{
+    width: 90px;
+    height: 200px;
+    background-color: darkgoldenrod;
+}
+article{
+    height: 325px;
+    background-color: darkgoldenrod;
+    width: 600px;
+}
+.ad{
+    width: 90px;
+    height: 200px;
+    background-color: darkgoldenrod;
+
+}
+footer{
+    width: 600px;
+    height: 78px;
+    background-color: darkgoldenrod;
+
+}
